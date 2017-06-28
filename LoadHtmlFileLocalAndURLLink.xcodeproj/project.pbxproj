@@ -14,6 +14,7 @@
 		E12AF0151F03556B0098FCBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E12AF0131F03556B0098FCBD /* LaunchScreen.storyboard */; };
 		E12AF0201F03556B0098FCBD /* LoadHtmlFileLocalAndURLLinkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12AF01F1F03556B0098FCBD /* LoadHtmlFileLocalAndURLLinkTests.swift */; };
 		E12AF02B1F03556B0098FCBD /* LoadHtmlFileLocalAndURLLinkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12AF02A1F03556B0098FCBD /* LoadHtmlFileLocalAndURLLinkUITests.swift */; };
+		E12AF0391F0358FD0098FCBD /* HTMLViewOnWebView.html in Resources */ = {isa = PBXBuildFile; fileRef = E12AF0381F0358FD0098FCBD /* HTMLViewOnWebView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E12AF0261F03556B0098FCBD /* LoadHtmlFileLocalAndURLLinkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoadHtmlFileLocalAndURLLinkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E12AF02A1F03556B0098FCBD /* LoadHtmlFileLocalAndURLLinkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadHtmlFileLocalAndURLLinkUITests.swift; sourceTree = "<group>"; };
 		E12AF02C1F03556B0098FCBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E12AF0381F0358FD0098FCBD /* HTMLViewOnWebView.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HTMLViewOnWebView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				E12AF00A1F03556A0098FCBD /* AppDelegate.swift */,
 				E12AF00C1F03556A0098FCBD /* ViewController.swift */,
+				E12AF0381F0358FD0098FCBD /* HTMLViewOnWebView.html */,
 				E12AF00E1F03556A0098FCBD /* Main.storyboard */,
 				E12AF0111F03556B0098FCBD /* Assets.xcassets */,
 				E12AF0131F03556B0098FCBD /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 				E12AF0151F03556B0098FCBD /* LaunchScreen.storyboard in Resources */,
 				E12AF0121F03556B0098FCBD /* Assets.xcassets in Resources */,
 				E12AF0101F03556A0098FCBD /* Main.storyboard in Resources */,
+				E12AF0391F0358FD0098FCBD /* HTMLViewOnWebView.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
